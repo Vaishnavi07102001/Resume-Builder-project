@@ -1,0 +1,147 @@
+
+#main{
+	height:200%;
+	position:absolute;
+	width:90%;
+	margin:auto;
+	border:5px solid #39a2d6;
+	top:100px;
+	left:5%;
+	background-image: url('bg1.png');
+	
+	
+}
+
+#header{
+	text-align:center;
+	background-color:#39a2d6;
+	
+}
+
+#resume_builder{
+	font-family:Georgia;
+	font-size:500%;
+	color:white;
+}
+
+#select_option{
+	height:8%;
+	width:100%;
+	position:absolute;
+	
+}
+
+#select_toggle{
+	width:80%;
+	position:absolute;
+	height:100%;
+	left:14%;
+	margin:1%;
+	
+}
+
+.toggle1{
+	width:10%;
+	height:80%;
+	background-color:#280000;
+	position:relative;
+	display:inline;
+	margin:auto;
+	float:left;
+	text-align:center;	
+	font-size: 19px;
+}
+
+.toggle2{
+	width:10%;
+	height:80%;
+	background-color:#280000;
+	position:relative;
+	display:inline;
+	margin:auto;
+	float:left;
+	text-align:center;
+	border-left:1px solid #39a2d6;
+	border-right:1px solid #39a2d6 ;
+	font-size: 19px;
+}
+.option{
+	color:white;
+	font-size:80%;
+	
+}
+
+.single{
+	top:5px;
+	
+}
+
+#footer{
+	color:white;
+	background-color:#39a2d6;
+	position:fixed;
+	top:90%;
+	height:10%;
+	width:90%;
+}
+
+#name{
+	
+	margin:auto;
+
+}
+
+#next{
+	float: right;
+    background-color: black;
+    color: white;
+	padding: 4px 15px;
+    font-size: 19px;
+    border: 2px solid white;
+    border-radius: 14px;
+    cursor: pointer;
+	width: 80px;
+}
+
+#content{
+	margin-top:10%;
+	margin-left:15%;
+
+}
+#back{
+	
+	background-color: black;
+    color: white;
+	padding: 4px 15px;
+    font-size: 19px;
+    border: 2px solid white;
+    border-radius: 14px;
+    cursor: pointer;
+	width: 80px;
+}
+
+.labels{
+	margin-top:3px;
+}
+
+ #TemplateList input
+{
+	position: absolute;
+	margin-top: 320px;
+	width: 20px;
+	height: 20px;
+	margin-left: 100px;
+}
+
+#TemplateList img
+{
+	margin: 5%;
+	height: 300px;
+	width: 200px;
+	margin-bottom: 40px;
+	border: solid 1px #eee;
+}
+									
+fieldset {
+    border: 0;
+}

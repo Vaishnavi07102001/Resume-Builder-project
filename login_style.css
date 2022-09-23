@@ -1,0 +1,14 @@
+.bg{
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    opacity: 0.6 ;
+}
+
+.text-muted {
+    color: #f8fcff!important;
+}
+
+body{
+    color: #070707;
+}
